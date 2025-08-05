@@ -54,7 +54,7 @@ This is a responsive authentication UI built using **React + TypeScript**. It in
 ## Setup Instructions
 
 ### 1. Clone the repository
-git clone [https://github.com/yourusername/savitar-auth.git](https://github.com/patelashik17/savitar-demo-app)
+git clone [https://github.com/patelashik17/savitar-demo-app.git](https://github.com/patelashik17/savitar-demo-app)
 
 
 ### 2. Install dependency 
